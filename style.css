@@ -70,7 +70,7 @@ div.menu-container > ul > li > a {
 
 div.menu-container > ul > li > a:hover {
     /* opacity: 0.7; */
-    background: var(--grey);
+    background: var(--grey-links);
 }
 
 div.menu-container > ul > li > a:after {
